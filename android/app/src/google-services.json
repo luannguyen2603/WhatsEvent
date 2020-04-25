@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217430363912",
+    "firebase_url": "https://whatevent-88ec4.firebaseio.com",
+    "project_id": "whatevent-88ec4",
+    "storage_bucket": "whatevent-88ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217430363912:android:fd113f3431ddb39c0726bd",
+        "android_client_info": {
+          "package_name": "com.alpha.whatsevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217430363912-gn6v5gcggej1lhqcj2cnelogmr9ivpqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alpha.whatsevent",
+            "certificate_hash": "62669a9bb1621e8ca0c56c7895a55a57f323cf37"
+          }
+        },
+        {
+          "client_id": "217430363912-k65s3kohut2q90hneemhnqbqoijv06sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBahRUhsig1s46NBbLhxFSHOeP7_NqL1yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217430363912-k65s3kohut2q90hneemhnqbqoijv06sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
